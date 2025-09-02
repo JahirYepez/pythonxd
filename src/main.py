@@ -16,3 +16,5 @@ C, M, Y, K = ec.RGB2CMYK(ruta)
 plt.imshow(gray_image, cmap="gray", vmin=0, vmax=1)
 plt.axis("off")
 plt.show()
+
+#xd
